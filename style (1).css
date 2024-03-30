@@ -1,0 +1,77 @@
+
+#Everything{
+	width: 800px;
+	background-color: white;
+	margin: auto;
+	padding: 20px;
+
+	font-family:Georgia;
+}
+#upper_block{
+	display: flex;
+}
+#name_part{
+	width: 500px;
+	margin-left: 40px;
+	font-family: Verdana;
+	font-size: 20px;
+}
+#image_itself{
+	border-radius: 5px;
+	transition: 1s;
+}
+#image_itself:hover{
+	width: 220px;
+	transition: 1;
+}
+
+
+#welcome_text{
+	text-align: center;
+	background-color: lightpink;
+	border-radius: 10px;
+	width: 450px;
+	margin: auto;
+	margin-bottom:50px;
+}
+
+#link_ala-too{
+	text-decoration: none;
+	color: whitesmoke;
+	background-color: indianred;
+	border-radius: 5px;
+	padding: 2px;
+}
+#link_bilimkana{
+	text-decoration: none;
+	color: whitesmoke;
+	background-color: darkorange;
+	border-radius: 5px;
+	padding: 2px;
+}
+
+#hands_image{
+	margin:30px 100px 30px 100px;
+	width: 600px;
+	border-radius: 10px;
+}
+
+h2{
+	background-color: lightpink;
+	color: white;
+	border-radius: 5px;
+	width:130px;
+	text-align: center;
+	transition: 1s;
+}
+h2:hover{
+	background-color: hotpink;
+	margin-left: 10px;
+	transition: 1s;
+}
+#analyst_h2{
+	width: 220px;
+}
+hr{
+	width: 750px;
+}
